@@ -1,0 +1,29 @@
+_repo: Joan-of-Arc_16933
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gower, Ronald Sutherland, Lord
+    alias: Gower, Ronald Charles Sutherland, Lord
+    birthdate: 1845
+    deathdate: 1916
+    gutenberg_agent_id: '7031'
+    url: http://www.gutenberg.org/2009/agents/7031
+    wikipedia: http://en.wikipedia.org/wiki/Lord_Ronald_Gower
+description: ''
+gutenberg_issued: '2005-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16933'
+  lccn: 01009737
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Joan, of Arc, Saint, 1412-1431'
+- !lcc 'DC'
+title: Joan of Arc
+url: http://www.gutenberg.org/ebooks/16933
