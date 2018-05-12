@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7031
     wikipedia: http://en.wikipedia.org/wiki/Lord_Ronald_Gower
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16933#Joan-of-Arc
 gutenberg_issued: '2005-10-24'
 gutenberg_type: Text
 identifiers:
